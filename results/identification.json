@@ -1,0 +1,11 @@
+{
+  "train_transitions": 16384,
+  "test_trajectories": 128,
+  "one_step_rmse": [
+    0.009115795604884624,
+    0.017151596024632454
+  ],
+  "horizon12_mean_position_error_m": 0.01931018941104412,
+  "device": "cuda",
+  "torch": "2.8.0+cu129"
+}
